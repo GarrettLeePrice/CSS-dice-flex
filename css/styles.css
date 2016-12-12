@@ -16,6 +16,8 @@
   display: block;
 }
 
+
+
 .first-face {
   width: 100px;
   height: 100px;
@@ -23,6 +25,8 @@
   display:flex;
   justify-content: center;
   align-items: center;
+  border-radius: 10px;
+  box-shadow: inset 0px 0px 20px black;
 }
 
 .second-face {
@@ -31,6 +35,8 @@
   background-color: white;
   display:flex;
   justify-content: space-between;
+  border-radius: 10px;
+  box-shadow: inset 0px 0px 20px black;
 }
 
 .second-face .pip:nth-child(1) {
@@ -48,6 +54,8 @@
   background-color: white;
   display:flex;
   justify-content: space-between;
+  border-radius: 10px;
+  box-shadow: inset 0px 0px 20px black;
 }
 
 .third-face .pip:nth-child(1) {
@@ -69,6 +77,8 @@
   background-color: white;
   display:flex;
   justify-content: space-between;
+  border-radius: 10px;
+  box-shadow: inset 0px 0px 20px black;
 }
 .fourth-face .column {
   display: flex;
@@ -83,6 +93,8 @@
   background-color: white;
   display:flex;
   justify-content: space-between;
+  border-radius: 10px;
+  box-shadow: inset 0px 0px 20px black;
 }
 .fifth-face .column {
   display: flex;
@@ -101,6 +113,8 @@
   background-color: white;
   display:flex;
   justify-content: space-between;
+  border-radius: 10px;
+  box-shadow: inset 0px 0px 20px black;
 }
 .sixth-face .column {
   display: flex;
